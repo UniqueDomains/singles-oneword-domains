@@ -1,0 +1,2 @@
+# singles-oneword-domains
+List of singles one word domain names with availability, expiration date, attractiveness, demand score.
