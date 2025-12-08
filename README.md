@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SINGLES one-word domains still available to buy.
 
-This dataset contains 4,770 .SINGLES one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,197 .SINGLES one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SINGLES one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=singles-oneword-domains&utm_content=description.top) (4,768) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,16 +13,16 @@ If you want to search & filters the complete database of [.SINGLES one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/singles-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/singles-oneword-domains/blob/main/singles.csv"><b>⬇️ CSV (4.77K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/singles-oneword-domains/blob/main/singles.json"><b>⬇️ JSON (4.77K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/singles-oneword-domains/blob/main/singles.csv"><b>⬇️ CSV (5.2K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/singles-oneword-domains/blob/main/singles.json"><b>⬇️ JSON (5.2K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=singles-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.77K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain             | Status    | Attract. | Demand | Length | Registrar    | Created          | Expires          |
 | ------------------ | --------- | -------- | ------ | ------ | ------------ | ---------------- | ---------------- |
-| aaa.singles        | available | 70       | 38%    | 3      |              |                  |                  |
-| aaron.singles      | available | 88       | 32%    | 5      |              |                  |                  |
+| aaa.singles        | available | 70       | 35%    | 3      |              |                  |                  |
+| aaron.singles      | available | 88       | 28%    | 5      |              |                  |                  |
 | abactinal.singles  | available | 50       | 1%     | 9      |              |                  |                  |
 | abaft.singles      | available | 43       | 2%     | 5      |              |                  |                  |
 | abandoned.singles  | available | 58       | 7%     | 9      |              |                  |                  |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.SINGLES one word doma
 | abatic.singles     | available | 54       | 2%     | 6      |              |                  |                  |
 | abaxial.singles    | available | 54       | 2%     | 7      |              |                  |                  |
 | abbatial.singles   | available | 50       | 1%     | 8      |              |                  |                  |
-| abc.singles        | resell    | 102      | 41%    | 3      | Sav.com, LLC | 05/11/2021 13:47 | 05/11/2025 13:47 |
+| abc.singles        | resell    | 102      | 39%    | 3      | Sav.com, LLC | 05/11/2021 13:47 | 05/11/2025 13:47 |
 | abdicable.singles  | available | 50       | 1%     | 9      |              |                  |                  |
 | abdominal.singles  | available | 82       | 5%     | 9      |              |                  |                  |
 | abdominous.singles | available | 56       | 1%     | 10     |              |                  |                  |
@@ -44,18 +44,18 @@ If you want to search & filters the complete database of [.SINGLES one word doma
 | aberrant.singles   | available | 74       | 7%     | 8      |              |                  |                  |
 | abeyant.singles    | available | 56       | 2%     | 7      |              |                  |                  |
 | abhorrent.singles  | available | 54       | 3%     | 9      |              |                  |                  |
+| abide.singles      | available | 94       | 15%    | 5      |              |                  |                  |
 | abiding.singles    | available | 106      | 5%     | 7      |              |                  |                  |
 | abient.singles     | available | 54       | 1%     | 6      |              |                  |                  |
-| ability.singles    | available | 92       | 18%    | 7      |              |                  |                  |
-| abit.singles       | available | 66       | 16%    | 5      |              |                  |                  |
+| ability.singles    | available | 92       | 16%    | 7      |              |                  |                  |
+| abit.singles       | available | 66       | 12%    | 5      |              |                  |                  |
 | abject.singles     | available | 94       | 8%     | 6      |              |                  |                  |
 | abkhas.singles     | available | 68       | 1%     | 6      |              |                  |                  |
-| abkhasian.singles  | available | 78       | 1%     | 9      |              |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/singles-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/singles-oneword-domains/blob/main/singles.csv"><b>⬇️ CSV (4.77K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/singles-oneword-domains/blob/main/singles.json"><b>⬇️ JSON (4.77K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/singles-oneword-domains/blob/main/singles.csv"><b>⬇️ CSV (5.2K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/singles-oneword-domains/blob/main/singles.json"><b>⬇️ JSON (5.2K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=singles-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.77K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.SINGLES one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
