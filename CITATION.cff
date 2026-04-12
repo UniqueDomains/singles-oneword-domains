@@ -4,8 +4,8 @@ title: "Available .SINGLES One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-10"
-date-released: "2026-04-10"
+version: "2026-04-12"
+date-released: "2026-04-12"
 url: "https://unique.domains/domains/tld/singles"
 repository-code: "https://github.com/UniqueDomains/singles-oneword-domains"
 license: "See LICENSE"
