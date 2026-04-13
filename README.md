@@ -1,20 +1,20 @@
-# Available .SINGLES One-Word Domains (9,594)
+# Available .SINGLES One-Word Domains (9,593)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C593%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C594%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C593%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .singles one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .singles one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,593-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,594 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,593 rows · **Live catalog:** 9,594 domains
+**Public extract:** 9,593 rows · **Live catalog:** 9,593 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/singles`  
@@ -70,18 +70,18 @@ print(df.head())
 | zero.singles      | available | $12.99    | $43.99        | 112            | 53     | 4      | name.com          |
 | palestine.singles | resell    | —         | —             | 59             | 93     | 9      | GoDaddy.com, LLC  |
 | art.singles       | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap         |
-| design.singles    | available | $12.99    | $43.99        | 108            | 50     | 6      | name.com          |
+| simple.singles    | available | $12.99    | $43.99        | 128            | 49     | 6      | name.com          |
 | test.singles      | resell    | —         | —             | 72             | 89     | 4      | NameCheap, Inc.   |
 | life.singles      | premium   | $520      | $520          | 84             | 50     | 4      | namecheap         |
-| security.singles  | available | $36.98    | —             | 70             | 49     | 8      | namecheap         |
+| design.singles    | available | $12.99    | $43.99        | 108            | 49     | 6      | name.com          |
 | home.singles      | resell    | —         | —             | 100            | 62     | 4      | Spaceship, Inc.   |
 | big.singles       | premium   | $123.75   | $123.75       | 88             | 47     | 3      | name.com          |
-| simple.singles    | available | $12.99    | $43.99        | 128            | 48     | 6      | name.com          |
+| security.singles  | available | $36.98    | —             | 70             | 49     | 8      | namecheap         |
 | the.singles       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH         |
 | about.singles     | premium   | $12.99    | $43.99        | 94             | 37     | 5      | name.com          |
 | trade.singles     | available | $36.98    | —             | 116            | 46     | 5      | namecheap         |
 | search.singles    | resell    | —         | —             | 70             | 57     | 6      | Sav.com, LLC - 18 |
-| cute.singles      | premium   | $500      | $500          | 82             | 34     | 4      | name.com          |
+| cute.singles      | premium   | $500      | $500          | 82             | 32     | 4      | name.com          |
 | law.singles       | available | $36.98    | —             | 82             | 46     | 3      | namecheap         |
 | data.singles      | resell    | —         | —             | 70             | 56     | 4      | GoDaddy.com, LLC  |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,593-row public sample | 9,594 live domains                               |
+| 9,593-row public sample | 9,593 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
