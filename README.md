@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .singles one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,555 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,555 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,555 domains · **Median ask:** $15.95 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/singles`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,19 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| jewels.singles     | available | $12.99    | —             | 80             | 15     | 6      | name.com  |
+| forces.singles     | available | $12.99    | —             | 82             | 12     | 6      | name.com  |
+| geton.singles      | available | $12.99    | —             | 82             | 10     | 6      | name.com  |
 | matcha.singles     | available | $12.99    | —             | 86             | 39     | 6      | name.com  |
+| useit.singles      | available | $12.99    | —             | 94             | 7      | 6      | name.com  |
+| dogsit.singles     | available | $12.99    | —             | 96             | 2      | 6      | name.com  |
+| edamame.singles    | available | $12.99    | —             | 80             | 9      | 7      | name.com  |
+| playon.singles     | available | $12.99    | —             | 80             | 14     | 7      | name.com  |
+| toneup.singles     | available | $12.99    | —             | 80             | 5      | 7      | name.com  |
+| hangon.singles     | available | $12.99    | —             | 82             | 6      | 7      | name.com  |
+| stirup.singles     | available | $12.99    | —             | 82             | 3      | 7      | name.com  |
+| dogsick.singles    | available | $12.99    | —             | 90             | 1      | 7      | name.com  |
+| getlife.singles    | available | $12.99    | —             | 80             | 5      | 8      | name.com  |
 | SantaClara.singles | premium   | $92.40    | $92.40        | 75             | 9      | 11     | namecheap |
 | whynot.singles     | available | $12.99    | —             | 74             | 39     | 7      | name.com  |
 | justin.singles     | available | $12.99    | —             | 58             | 38     | 7      | name.com  |
@@ -72,18 +84,6 @@ print(df.head())
 | stories.singles    | available | $12.99    | —             | 58             | 36     | 7      | name.com  |
 | Cats.singles       | available | $36.98    | —             | 59             | 33     | 4      | namecheap |
 | teams.singles      | available | $12.99    | —             | 62             | 32     | 5      | name.com  |
-| trends.singles     | available | $12.99    | —             | 60             | 32     | 6      | name.com  |
-| blocks.singles     | available | $12.99    | —             | 53             | 29     | 6      | name.com  |
-| Jim.singles        | available | $36.98    | —             | 78             | 28     | 3      | namecheap |
-| photos.singles     | available | $12.99    | —             | 54             | 28     | 6      | name.com  |
-| pages.singles      | available | $12.99    | —             | 52             | 28     | 5      | name.com  |
-| has.singles        | available | $12.99    | —             | 60             | 26     | 3      | name.com  |
-| traders.singles    | available | $12.99    | —             | 60             | 26     | 7      | name.com  |
-| drops.singles      | available | $12.99    | —             | 52             | 25     | 5      | name.com  |
-| schools.singles    | available | $12.99    | —             | 72             | 24     | 7      | name.com  |
-| comics.singles     | available | $12.99    | —             | 68             | 24     | 6      | name.com  |
-| shops.singles      | available | $12.99    | —             | 64             | 24     | 5      | name.com  |
-| gamers.singles     | available | $12.99    | —             | 62             | 24     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,555 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,555 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection focuses only on one-word .singles domains. The set is broad, with 12,555 names and examples ranging from generic terms like tips.singles and finals.singles to punchier words like popup.singles and jewels.singles. For founders, the main question is whether the word reads clearly with .singles and feels memorable enough to own as a brand. For investors, the key test is whether the keyword has clear end-user relevance at a low enough ask to justify the hold. When comparing these domains, weigh word clarity, commercial intent, and whether the pairing with .singles feels natural rather than forced.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check if the word fits naturally with .singles
+- Favor clear, memorable words over awkward pairings
+- Median ask is about $15.95 across this selection
+- Examples include tips.singles and popup.singles
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
