@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .singles one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,558 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,558 domains · **Median ask:** $15.95 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,558 domains · **Median ask:** $16.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/singles`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/singles`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SINGLES one-word doma
 
 ### Files
 
-- `singles.csv` — public CSV extract (1,000 rows)
-- `singles.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `singles.csv`, public CSV extract (1,000 rows)
+- `singles.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| jewels.singles     | available | $12.99    | —             | 80             | 15     | 6      | name.com  |
-| forces.singles     | available | $12.99    | —             | 82             | 12     | 6      | name.com  |
-| geton.singles      | available | $12.99    | —             | 82             | 10     | 6      | name.com  |
-| matcha.singles     | available | $12.99    | —             | 86             | 39     | 6      | name.com  |
-| useit.singles      | available | $12.99    | —             | 94             | 7      | 6      | name.com  |
-| dogsit.singles     | available | $12.99    | —             | 96             | 2      | 6      | name.com  |
-| edamame.singles    | available | $12.99    | —             | 80             | 9      | 7      | name.com  |
-| playon.singles     | available | $12.99    | —             | 80             | 14     | 7      | name.com  |
-| toneup.singles     | available | $12.99    | —             | 80             | 5      | 7      | name.com  |
-| hangon.singles     | available | $12.99    | —             | 82             | 6      | 7      | name.com  |
-| stirup.singles     | available | $12.99    | —             | 82             | 3      | 7      | name.com  |
-| dogsick.singles    | available | $12.99    | —             | 90             | 1      | 7      | name.com  |
-| getlife.singles    | available | $12.99    | —             | 80             | 5      | 8      | name.com  |
-| whynot.singles     | available | $12.99    | —             | 74             | 44     | 7      | name.com  |
-| events.singles     | premium   | $38.94    | $38.94        | 68             | 37     | 6      | namesilo  |
-| SantaClara.singles | premium   | $92.40    | $92.40        | 75             | 9      | 11     | namecheap |
-| justin.singles     | available | $12.99    | —             | 58             | 38     | 7      | name.com  |
-| realtime.singles   | premium   | —         | —             | 76             | 28     | 9      | —         |
-| ideas.singles      | available | $12.99    | —             | 62             | 36     | 5      | name.com  |
-| stories.singles    | available | $12.99    | —             | 58             | 36     | 7      | name.com  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| are.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
+| air.singles        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 20                           |
+| boy.singles        | premium   | $41.99    | —             | medium         | low    | 3      | name.com                                    |
+| ash.singles        | available | $12.99    | —             | medium         | low    | 3      | name.com                                    |
+| town.singles       | resell    | —         | —             | medium         | low    | 4      | NameSilo, LLC                               |
+| dot.singles        | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo                                    |
+| axe.singles        | available | $12.99    | —             | medium         | low    | 3      | name.com                                    |
+| great.singles      | resell    | —         | —             | high           | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
+| adult.singles      | premium   | $123.75   | $123.75       | high           | low    | 5      | name.com                                    |
+| BJP.singles        | available | $12.99    | —             | medium         | low    | 3      | name.com                                    |
+| ideal.singles      | premium   | $12.99    | —             | high           | low    | 5      | name.com                                    |
+| btw.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
+| Women.singles      | premium   | $854      | $854          | medium         | low    | 5      | namesilo                                    |
+| con.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
+| tennis.singles     | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                    |
+| cow.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
+| concrete.singles   | premium   | $12.99    | —             | high           | low    | 8      | name.com                                    |
+| cry.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
+| conclusive.singles | premium   | $12.99    | —             | medium         | low    | 10     | name.com                                    |
+| cut.singles        | available | $12.99    | $43.99        | high           | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses only on one-word .singles domains. The set is broad, with 12,555 names and examples ranging from generic terms like tips.singles and finals.singles to punchier words like popup.singles and jewels.singles. For founders, the main question is whether the word reads clearly with .singles and feels memorable enough to own as a brand. For investors, the key test is whether the keyword has clear end-user relevance at a low enough ask to justify the hold. When comparing these domains, weigh word clarity, commercial intent, and whether the pairing with .singles feels natural rather than forced.
+This list covers domain names registered under the .singles extension, from short evocative words to multi-word phrases such as dogsledmail.singles, letitalone.singles, and solarpower.singles. With a median asking price near $16, this extension offers one of the more budget-friendly ways to secure a distinctive, ownable name for niche, dating, or lifestyle-focused projects. When comparing these domains, look at renewal cost, memorability, and relevance to your target audience before committing to a purchase.
 
-- Check if the word fits naturally with .singles
-- Favor clear, memorable words over awkward pairings
-- Median ask is about $15.95 across this selection
-- Examples include tips.singles and popup.singles
+- Median ask near $16 across this .singles selection
+- 12,558 .singles domain names included in this set
+- Names range from short words to multi-word phrases
+- Niche extension suited for dating, lifestyle, community brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
