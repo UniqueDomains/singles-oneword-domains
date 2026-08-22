@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .singles one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,068 domains · **Median ask:** $11.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/singles`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| great.singles      | resell    | —         | —             | high           | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
+| clean.singles      | available | $12.99    | —             | high           | low    | 5      | name.com                                    |
 | are.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
 | air.singles        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 20                           |
 | boy.singles        | premium   | $41.99    | —             | medium         | low    | 3      | name.com                                    |
@@ -71,7 +73,6 @@ print(df.head())
 | town.singles       | resell    | —         | —             | medium         | low    | 4      | NameSilo, LLC                               |
 | dot.singles        | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo                                    |
 | axe.singles        | available | $12.99    | —             | medium         | low    | 3      | name.com                                    |
-| great.singles      | resell    | —         | —             | high           | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
 | adult.singles      | premium   | $123.75   | $123.75       | high           | low    | 5      | name.com                                    |
 | bay.singles        | available | $3.98     | $36.98        | low            | low    | 3      | namecheap                                   |
 | ideal.singles      | premium   | $12.99    | —             | high           | low    | 5      | name.com                                    |
@@ -83,7 +84,6 @@ print(df.head())
 | concrete.singles   | premium   | $12.99    | —             | high           | low    | 8      | name.com                                    |
 | cow.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
 | conclusive.singles | premium   | $12.99    | —             | medium         | low    | 10     | name.com                                    |
-| cry.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
