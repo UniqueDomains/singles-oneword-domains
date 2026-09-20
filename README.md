@@ -1,10 +1,10 @@
-# Available .SINGLES One-Word Domains (27,480)
+# Available .SINGLES One-Word Domains (29,030)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C480%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C030%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .singles one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,480 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,030 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,480 domains · **Median ask:** $8.98 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 29,030 domains · **Median ask:** $8.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/singles`
 **Best for:** founders, investors, studios
 
@@ -65,18 +65,18 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | are.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
-| air.singles        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 20                           |
+| air.singles        | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 20                           |
 | boy.singles        | premium   | $41.99    | —             | medium         | low    | 3      | name.com                                    |
 | ash.singles        | available | $12.99    | —             | medium         | low    | 3      | name.com                                    |
 | town.singles       | resell    | —         | —             | medium         | low    | 4      | NameSilo, LLC                               |
-| dot.singles        | premium   | $38.94    | $38.94        | medium         | medium | 3      | namesilo                                    |
+| dot.singles        | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                    |
 | axe.singles        | available | $12.99    | —             | medium         | low    | 3      | name.com                                    |
 | great.singles      | resell    | —         | —             | high           | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
 | adult.singles      | premium   | $123.75   | $123.75       | high           | low    | 5      | name.com                                    |
 | bay.singles        | available | $3.98     | $36.98        | low            | low    | 3      | namecheap                                   |
 | ideal.singles      | premium   | $12.99    | —             | high           | low    | 5      | name.com                                    |
-| BJP.singles        | available | $12.99    | —             | medium         | low    | 3      | name.com                                    |
-| Women.singles      | premium   | $854      | $854          | medium         | low    | 5      | namesilo                                    |
+| bjp.singles        | available | $12.99    | —             | medium         | low    | 3      | name.com                                    |
+| women.singles      | premium   | $854      | $854          | medium         | low    | 5      | namesilo                                    |
 | btw.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
 | tennis.singles     | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                    |
 | con.singles        | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,480 live domains                        |
+| 1,000-row public sample | 29,030 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
