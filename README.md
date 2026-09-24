@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .singles one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,795 domains · **Median ask:** $8.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/singles`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| count.singles       | available | $12.99    | —             | high           | low    | 5      | name.com                                    |
 | are.singles         | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
 | information.singles | resell    | $12.99    | —             | medium         | low    | 11     | name.com                                    |
 | boy.singles         | premium   | $41.99    | —             | medium         | low    | 3      | name.com                                    |
@@ -82,8 +83,7 @@ print(df.head())
 | btw.singles         | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
 | tennis.singles      | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                    |
 | con.singles         | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
-| concrete.singles    | premium   | $12.99    | —             | high           | low    | 8      | name.com                                    |
-| cow.singles         | available | $12.99    | —             | high           | low    | 3      | name.com                                    |
+| pittsburgh.singles  | premium   | $78.54    | $78.54        | medium         | low    | 10     | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SINGLES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
