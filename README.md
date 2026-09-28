@@ -1,10 +1,10 @@
-# Available .SINGLES One-Word Domains (24,105)
+# Available .SINGLES One-Word Domains (24,669)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C105%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C669%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .singles one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,105 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,669 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,105 domains · **Median ask:** $9.17 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 24,669 domains · **Median ask:** $9.19 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/singles`
@@ -75,13 +75,13 @@ print(df.head())
 | net.singles      | premium   | $854      | $854          | high           | medium | 3      | namesilo         |
 | bat.singles      | available | $3.98     | $36.98        | high           | low    | 3      | namecheap        |
 | stallion.singles | resell    | $12.99    | —             | high           | low    | 8      | GoDaddy.com, LLC |
-| tax.singles      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
+| punk.singles     | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo         |
 | bop.singles      | available | $3.98     | $36.98        | high           | low    | 3      | namecheap        |
 | bad.singles      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| punk.singles     | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo         |
+| delhi.singles    | premium   | $85.80    | $85.80        | high           | low    | 5      | namecheap        |
 | bro.singles      | available | $12.99    | —             | high           | low    | 3      | name.com         |
 | neo.singles      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
-| delhi.singles    | premium   | $85.80    | $85.80        | high           | low    | 5      | namecheap        |
+| alhambra.singles | premium   | $78.54    | $78.54        | high           | low    | 8      | namesilo         |
 | ccp.singles      | available | $9.49     | $33.99        | medium         | low    | 3      | namesilo         |
 | nude.singles     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,105 live domains                        |
+| 1,000-row public sample | 24,669 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
